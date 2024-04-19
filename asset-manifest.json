@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/askgbc-chatbot/static/css/main.2b9bc3da.css",
+    "main.js": "/askgbc-chatbot/static/js/main.250be58c.js",
+    "static/js/816.2e1c85fe.chunk.js": "/askgbc-chatbot/static/js/816.2e1c85fe.chunk.js",
+    "static/js/453.059f282b.chunk.js": "/askgbc-chatbot/static/js/453.059f282b.chunk.js",
+    "index.html": "/askgbc-chatbot/index.html",
+    "main.2b9bc3da.css.map": "/askgbc-chatbot/static/css/main.2b9bc3da.css.map",
+    "main.250be58c.js.map": "/askgbc-chatbot/static/js/main.250be58c.js.map",
+    "816.2e1c85fe.chunk.js.map": "/askgbc-chatbot/static/js/816.2e1c85fe.chunk.js.map",
+    "453.059f282b.chunk.js.map": "/askgbc-chatbot/static/js/453.059f282b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9bc3da.css",
+    "static/js/main.250be58c.js"
+  ]
+}
